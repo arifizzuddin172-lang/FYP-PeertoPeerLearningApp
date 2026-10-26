@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992220321457",
+    "project_id": "fyp1-peer-learning",
+    "storage_bucket": "fyp1-peer-learning.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992220321457:android:425476c3645885966cb490",
+        "android_client_info": {
+          "package_name": "com.example.fyp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL2FWTw0-G1vm1QznNKIHz2-_veBXPlFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
